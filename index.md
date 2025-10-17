@@ -1,3 +1,5 @@
-# Welcome to Markdown
-## This is a subheader
-### This is a smaller subheader
+# My Markdown Headers
+
+## Adding an Image
+
+![Cute cat image](https://placekitten.com/200/300)
